@@ -1,0 +1,1 @@
+HelloMid(); //proto type
