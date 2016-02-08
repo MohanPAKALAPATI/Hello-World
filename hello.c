@@ -10,6 +10,7 @@ int main()
 		  printf("Hello, Jenkins Build\n");
 		  GoodbyeMSG();
 		  HelloMid();
+		  AddABug();
 		  return 0;
 	  }
       
