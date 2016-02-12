@@ -8,7 +8,6 @@ int main()
 		  printf("Hello, world From New Branch!\n");
 		  printf("Hello, world From Jenkins Git Build!\n");
 		  printf("Hello, Jenkins Build\n");
-		  printf("Hello, New Jenkins Build\n");
 		  GoodbyeMSG();
 		  HelloMid();
 		  return 0;
